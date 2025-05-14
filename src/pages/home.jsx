@@ -156,7 +156,7 @@ function Home(props) {
                 <div>
                     <p className="m-0 xl:mb-3 sm:mb-3 text-[14px] text-[#57432E] font-semibold md:text-[15px] sm:text-[14px] lg:text-[20px]">Contact info</p>
                     <div>
-                        <p className="m-0 text-[#57432E] xl:leading-[130%] md:leading-[100%] font-bold md:text-[36px] sm:text-[26px] text-[20px] sm:leading-[100%] xl:text-[45px]">We are always<br/> happy to assist you</p>
+                        <p className="m-0 text-[#57432E] xl:leading-[130%] md:leading-[100%] font-bold md:text-[36px] sm:text-[26px] text-[20px] sm:leading-[100%] xl:text-[45px]">get the vibe started!<br/>we are all about epic events</p>
                     </div>
                 </div>
                 <div>
