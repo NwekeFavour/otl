@@ -2,7 +2,7 @@ import React from 'react';
 import { Button } from "@/components/ui/button"
 import Brand from "../assets/img/brand.svg"
 import Twitter from "../assets/img/logo-twitter.svg"
-import Instagram from "../assets/img/Instagram2.svg"
+import Instagram from "../assets/img/instagram2.svg"
 import Facebook from "../assets/img/Shape.svg"
 import { Link } from 'react-router-dom';
 import {Input} from "@/components/ui/input"
