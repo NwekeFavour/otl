@@ -66,7 +66,7 @@ function Home(props) {
                     <div>
                         <p className="m-0 xl:mb-3 sm:mb-3 text-[14px] text-[#57432E] font-semibold md:text-[15px] sm:text-[14px] lg:text-[20px]">Get Started</p>
                         <div>
-                            <p className='text-[#57432E] sm:text-[28px] sm:leading-[100%] font-bold md:leading-[100%] lg:leading-[100%] text-[24px] xl:text-[70px] lg:text-[40px] md:text-[35px]'>Get in touch with us. We're here to assist you.</p>
+                            <p className='text-[#57432E] sm:text-[28px] sm:leading-[100%] font-bold md:leading-[100%] lg:leading-[100%] text-[20px] xl:text-[60px] lg:text-[40px] md:text-[30px]'>Let's connect! We are here to make your party unforgettable</p>
                         </div>
                     </div>
                     <div className='sm:block sm:mt-0 mt-3 flex items-center'>
